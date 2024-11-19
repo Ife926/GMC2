@@ -1,1 +1,3 @@
 This is my first git file to be shared in a repository
+
+This is a change made to file in the GIT1 folders
